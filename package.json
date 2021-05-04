@@ -1,0 +1,23 @@
+{
+  "name": "studentlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradyu-hebbar/studentlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradyu-hebbar/studentlist/issues"
+  },
+  "homepage": "https://pradyu-hebbar.github.io/studentlist",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
